@@ -18,16 +18,22 @@ In the section, I have used heading tag. i used < h3> tag for heading and < p> f
 ![image](https://github.com/parwindersinghbatra/The_Gallery_Cake/assets/64405014/ac02abde-4dec-4f83-80d1-717d5ec08c63)
 
 ## Skills
-In the section, I have used headings and div tag. i used <.h1> and <.h2>. The lists are created using <.ul> (unordered lists) and <.li> (list items) tags. Here's how it looks:
+In the section, I have used headings. I used < h2> and the lists are created using <.ul> (unordered lists) and <.li> (list items) tags. Here's how it looks:
+
 ![image](https://github.com/parwindersinghbatra/The_Gallery_Cake/assets/64405014/1207589b-efa8-4ea2-9ae7-237959a6205d)
 
+## Hobbies
+In the section, I have used headings. I used < h2> and the lists are created using <.ol> (ordered lists) and <.li> (list items) tags. Here's how it looks:
 
-Cat table
-In the section, I have used table, table head, table body and table other properties. i used <.table>, <.thead> , <.tbody>, <.tr>, <.th>, <.td>
+![image](https://github.com/parwindersinghbatra/The_Gallery_Cake/assets/64405014/d3680c2d-181b-4af3-bb3c-b7375e712c1a)
 
+## Projects
+In the section, I have used headings. I used < h2> and the lists are created using < dl> (description list) and < dt> (data term) and < dd> (data definition) tags. Here's how it looks:
 
-image
+![image](https://github.com/parwindersinghbatra/The_Gallery_Cake/assets/64405014/245109e4-830e-43db-ab67-f37352fadc5b)
 
-Summary
-In the Summary section, I have used a mix of heading tags and paragraph tags and bold tag, strong tag, em tag and i tag for the text content. Here's the screenshot:
+## Contact Details
+In the section, I have used < pre> tag. Here's the screenshot:
+
+![image](https://github.com/parwindersinghbatra/The_Gallery_Cake/assets/64405014/7e5e5e97-f7fd-4e5a-bce8-eeaa69cf1123)
 
