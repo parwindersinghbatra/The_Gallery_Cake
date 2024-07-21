@@ -3,8 +3,7 @@ Welcome to "Parwinder Singh" website task. This project is designed to practice 
 ## Parwinder Singh
 In this section, I have used heading tags < h1> for "Parwinder Singh" and <p> tag for the "Click here to view more" and I used anchor tags <.a> for "Linkedin, Github"..Here's how it looks:
 
-![image](https://github.com/parwindersinghbatra/The_Gallery_Cake/assets/64405014/1c0e2323-d5cd-43a5-9074-cb296aac7360)
-
+![image](https://github.com/user-attachments/assets/574db46e-b970-45f4-b36a-deb841d79ea6)
 
 ## Experience
 In the section, I have used heading tag. i used < h3> tag for heading and < p> for the paragraph. Here's how it looks:
