@@ -8,16 +8,18 @@ In this section, I have used heading tags < h1> for "Parwinder Singh" and <p> ta
 ## Experience
 In the section, I have used heading tag. i used < h3> tag for heading and < p> for the paragraph. Here's how it looks:
 
-![image](https://github.com/parwindersinghbatra/The_Gallery_Cake/assets/64405014/57526f53-3dc8-4422-a6a5-2e3f3331d669)
+![image](https://github.com/user-attachments/assets/2ce3fbd9-58da-437a-ab14-3a3aa2ca3a0e)
 
 ## Educator
 In the section, I have used heading tag. i used < h3> tag for heading and < p> for the paragraph. Here's how it looks:
 
-![image](https://github.com/parwindersinghbatra/The_Gallery_Cake/assets/64405014/ac02abde-4dec-4f83-80d1-717d5ec08c63)
+![image](https://github.com/user-attachments/assets/7ea5b48c-bf39-41b6-99b9-d94bdeb22201)
+
 
 ## Skills
 In the section, I have used headings and div tag. i used <.h1> and <.h2>. The lists are created using <.ul> (unordered lists) and <.li> (list items) tags. Here's how it looks:
-![image](https://github.com/parwindersinghbatra/The_Gallery_Cake/assets/64405014/1207589b-efa8-4ea2-9ae7-237959a6205d)
+
+![image](https://github.com/user-attachments/assets/c1ea55c5-64e5-4458-8066-2044b23beb18)
 
 Cat table
 In the section, I have used table, table head, table body and table other properties. i used <.table>, <.thead> , <.tbody>, <.tr>, <.th>, <.td>
