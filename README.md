@@ -24,5 +24,10 @@ In the section, I have used headings and div tag. i used <.h1> and <.h2>. The li
 Cat table
 In the section, I have used table, table head, table body and table other properties. i used <.table>, <.thead> , <.tbody>, <.tr>, <.th>, <.td>
 
+![image](https://github.com/user-attachments/assets/a28341bc-96f6-47b3-b953-7f4e840abe1e)
+
 Summary
 In the Summary section, I have used a mix of heading tags and paragraph tags and bold tag, strong tag, em tag and i tag for the text content. Here's the screenshot:
+
+![image](https://github.com/user-attachments/assets/7bf390ea-6a23-46f8-807b-8d63dab4214a)
+
